@@ -1,0 +1,3 @@
+eat, sleep, pray, eat, sleep, coffee,
+pray, eat, sleep, workout, pray, eat, love,
+eat, pray
